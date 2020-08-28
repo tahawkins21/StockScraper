@@ -1,7 +1,7 @@
-DOWNLOAD ALL FILES 
-RUN THE .JAR
-WHEN PROMPTED -- CHOOSE THE LOCATION OF THE DOWNLOADED SP500TICKER.CSV FILE
-WHEN PROMPTED NEXT -- FOR THE OUTPUT CSV, CHANGE THE SP500TICKER.CSV TO ANOTHER NAME W/ .CSV EXTENSION. IT WILL CREATE THE FILE IN THE SAME DIRECTORY WITH THE NAME YOU GAVE
-	E.G. -- SP500TICKERS.CSV -> NewOutPutFile.CSV
+#README
+Download SP500tickers.csv
+Download and run FinalProject.jar
 
-These two have to be done correctly for program to run.
+When Prompted, open the .csv you just downloaded. It contains a list of tickers we want to search for
+
+Then, when prompted next, write a new filename and choose a location for the new file. Results will be written to the new file.
